@@ -1,6 +1,6 @@
 <!--StartFragment-->
 
-**Central Dogma of Molecular Biology: Implications in Biomarker Discovery and Cancer Research** 
+#**Central Dogma of Molecular Biology: Implications in Biomarker Discovery and Cancer Research** 
 
 Authors (@slack): Shreya Karandikar (@Shreya)
 
@@ -13,7 +13,7 @@ Certain exceptions to the theory include retroviruses and prions. Despite these,
 
 Figure. 1. [The processes in the Central Dogma of Molecular Biology ](https://commons.wikimedia.org/wiki/File:Central_dogma_of_molecular_biology_colorized%2Bspecial_transfer.png)
 
-**Role in Cancer Research**
+##**Role in Cancer Research**
 
 The Central Dogma provides a framework for understanding how genetic mutations can affect cellular processes and contribute to cancer. The dysregulation of certain processes can directly or indirectly contribute to mutagenesis. Alterations in DNA can lead to changes in mRNA and subsequently affect protein function, which may drive tumor development. 
 
@@ -27,12 +27,12 @@ The upregulation or downregulation of certain genes under specific conditions ca
 
 Understanding the Central Dogma helps design targeted therapies that restore normal protein function or inhibit cancer-specific pathways. Technological advancements like NGS and proteomics have enhanced our ability to analyze and compare molecular profiles between cancerous and normal cells, leading to new biomarker discoveries. Eg., Specific microRNAs overexpressed in lung cancer can serve as diagnostic biomarkers, and circulating tumor DNA (ctDNA) in blood provides a non-invasive method to monitor tumor progression and treatment response.
 
-**Conclusion**
+##**Conclusion**
 
 The central dogma of molecular biology is fundamental to understanding how genetic information is processed and how its disruption can lead to cancer. This knowledge aids in identifying biomarkers that improve cancer detection, diagnosis, and treatment, thus enhancing patient outcomes and fostering personalized medicine.
 
 
-# References:
+## References:
 
 1. <https://cancerprogressreport.aacr.org/disparities/chd20-contents/chd20-understanding-cancer-development/#:~:text=The%20order%2C%20or%20sequence%2C%20of,called%20ribonucleic%20acid%20(RNA)>.
 

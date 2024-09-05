@@ -6,7 +6,7 @@ Authors (@slack): Shreya Karandikar (@Shreya)
 
 The central dogma of molecular biology is the fundamental concept that explains the flow of genetic material in a cell. This discovery was a key milestone that significantly advanced our understanding of cellular functions, gene expression and regulation. According to Francis Crick, the flow of genetic material is unidirectional from DNA to RNA to proteins. It involves 3 steps: Replication, Transcription, and Translation. In eukaryotes, translation and transcription are spatiotemporally separated, occurring at different locations and times. Meanwhile, in prokaryotes, these processes occur simultaneously.
 
-Certain exceptions to the theory include retroviruses and prions. Despite these, the central dogma holds that genetic information cannot be rewritten from proteins alone.
+Certain exceptions to the theory include retroviruses and prions.(3) Despite these, the central dogma holds that genetic information cannot be rewritten from proteins alone.(6)
 
 
 # ****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcY6zuNbb59CpEXZs5AUwcYsBeM2NyCWCoTdggk6XQ17-Ux4w897_5A4l20Hw6hTb6uvYiH6IDBPdBEqjlzUyW32bwVYZe1aRiFvbY8NouxoPRS4iRIDklsNUMxY1zDu2D5a6FdORfY4g6hyIYJgvFcNk2y?key=_oH9GTytiYOCkzPM8f4bNw)****
@@ -15,7 +15,7 @@ Figure. 1. [The processes in the Central Dogma of Molecular Biology ](https://c
 
 **Role in Cancer Research**
 
-The Central Dogma provides a framework for understanding how genetic mutations can affect cellular processes and contribute to cancer. The dysregulation of certain processes can directly or indirectly contribute to mutagenesis. Alterations in DNA can lead to changes in mRNA and subsequently affect protein function, which may drive tumor development. 
+The Central Dogma provides a framework for understanding how genetic mutations can affect cellular processes and contribute to cancer.(1) The dysregulation of certain processes can directly or indirectly contribute to mutagenesis. Alterations in DNA can lead to changes in mRNA and subsequently affect protein function, which may drive tumor development. 
 
 🧬DNA ➡️💬RNA ➡️🔧 Protein (normal)
 
@@ -23,7 +23,7 @@ The Central Dogma provides a framework for understanding how genetic mutations c
 
 🧬DNA ➡️❌💬 (improper or no transcription product)
 
-The upregulation or downregulation of certain genes under specific conditions can act as biomarkers for diseases and provide insights into potential treatment responses. For example, mutations in the BRCA1 and BRCA2 genes are known biomarkers for a higher risk of breast and ovarian cancers. Their detection through genetic testing allows early intervention and risk management. Another example is the overexpression of the HER2 protein in some breast cancers, which serves as a biomarker and target for drugs like trastuzumab (Herceptin). 
+The upregulation or downregulation of certain genes under specific conditions can act as biomarkers for diseases and provide insights into potential treatment responses. For example, mutations in the BRCA1 and BRCA2 genes are known biomarkers for a higher risk of breast and ovarian cancers. Their detection through genetic testing allows early intervention and risk management.(8) Another example is the overexpression of the HER2 protein in some breast cancers, which serves as a biomarker and target for drugs like trastuzumab (Herceptin).(9) 
 
 Understanding the Central Dogma helps design targeted therapies that restore normal protein function or inhibit cancer-specific pathways. Technological advancements like NGS and proteomics have enhanced our ability to analyze and compare molecular profiles between cancerous and normal cells, leading to new biomarker discoveries. Eg., Specific microRNAs overexpressed in lung cancer can serve as diagnostic biomarkers, and circulating tumor DNA (ctDNA) in blood provides a non-invasive method to monitor tumor progression and treatment response.
 

@@ -4,6 +4,7 @@
 
 Authors (@slack): Mennatallah Mohamed Ebrahim Mahmoud, (@Mennatallah) Ademilola Adekoya (@Demi\_Nevaeh), Shreya Karandikar (@Shreya), Ganiyu Kaosara Oyinola (@Mojoyin)
 
+## Link to video: 
 ## Introduction
 
 The paper comprehensively analyzed high-grade serous ovarian cancer (HGS-OvCa) on a molecular level. This subtype is well-known for its aggressiveness and poor prognosis as it is responsible for 70% of deaths among patients with ovarian cancer. The aim was to find molecular abnormalities in HGS-OvCa samples that may affect patient outcomes, disease development, and serve as possible targets for treatment. For 489 HGS-OvCa tumors, the study assessed the expression of microRNA, mRNA, DNA promoter methylation, and DNA copy number using microarray analysis, resulting in whole exome DNA sequencing data for 316 tumors.
